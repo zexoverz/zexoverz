@@ -1,7 +1,3 @@
-
-<!--
-**zexoverz/zexoverz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Faisal Firdani</h1>
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
@@ -28,3 +24,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zexoverz&show_icons=true&locale=en&layout=compact" alt="zexoverz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zexoverz&" alt="zexoverz" /></p>
+
