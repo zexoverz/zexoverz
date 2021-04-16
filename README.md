@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Vessel Navigation App**
 
-- 🌱 I’m currently learning **Python** and **Go**
+- 🌱 I’m currently learning **Python**, **Go** and Blockchain development.
 
 - 💬 Ask me about **React, Vue, Nodejs or any javascript framework.**
 
