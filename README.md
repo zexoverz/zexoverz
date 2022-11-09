@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Firdani</h1>
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Vessel Navigation App**
+- 🔭 I’m currently working on **Quadrant.**
 
 - 🌱 I’m currently learning **Python**, **Go** and Blockchain development.
 
