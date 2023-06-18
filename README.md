@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quadrant.** [https://www.quadrant.io/](https://www.quadrant.io/)
 
-- 🌱 I’m currently learning **Python**, **Go** and Blockchain development.
+- 🌱 I’m currently learning blockchain development.
 
 - 💬 Ask me about **React, Vue, Nodejs or any javascript framework.**
 
