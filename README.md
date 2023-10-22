@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Firdani</h1>
-<h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Web3 Developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **Quadrant.** [https://www.quadrant.io/](https://www.quadrant.io/)
 
