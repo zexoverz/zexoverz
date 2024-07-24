@@ -3,7 +3,9 @@
 <h3 align="center">https://zexoverz.vercel.app/</h3>
 
 
-- 🔭 I’m currently working on **Quadrant.** [https://www.quadrant.io/](https://www.quadrant.io/)
+- 🔭 I’m currently working on **GFX Labs** 
+
+    Worked on frontend of Oku, an advanced crypto trading platform (www.oku.trade/app).
 
 - 🌱 I’m currently learning blockchain development.
 
