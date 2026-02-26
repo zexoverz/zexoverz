@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning blockchain development.
 
-- 💬 Ask me about **React, Vue, Nodejs or any javascript framework.**
+- 💬 Ask me about **Blockchain, Ethereum, ZK, or Defi**
 
 - 📫 How to reach me **faisalfirdani01@gmail.com**
 
